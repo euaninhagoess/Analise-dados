@@ -1,10 +1,10 @@
 # ​Análise Exploratória de Dados: Crédito Bancário 
 ​Este projeto consiste na exploração inicial de um conjunto de dados contendo 30.000 registos de clientes bancários. O objetivo foi validar a integridade dos dados, entender o perfil dos clientes e identificar padrões de crédito utilizando a biblioteca Pandas.
 
-## Tecnologias Utilizadas
-​Python 
-​Pandas: Manipulação e análise de dados.
-​Google Colab: Ambiente de desenvolvimento na nuvem.
+## Ferramentas Utilizadas
+​Python   
+​Pandas: Manipulação e análise de dados   
+Google Colab: Ambiente de desenvolvimento na nuvem
 
 ### Etapas da Análise
 ​1. Preparação e Carga
@@ -23,4 +23,4 @@
 ​Resultado: Foram encontrados **2.033** clientes que se encaixam nesta categoria de alta estabilidade e crédito.
 
 ​4. Qualidade dos Dados
-​Verificação de dados nulos ˋisnull().sum()ˋ, confirmando que o dataset está completo e pronto para modelagem, sem necessidade de limpeza imediata
+​Verificação de dados nulos (isnull().sum()), confirmando que o dataset está completo e pronto para modelagem, sem necessidade de limpeza imediata
